@@ -9,10 +9,10 @@
 }
 
 :root{
-    --bg-color: rgb(237, 234, 234);
+    --bg-color: rgb(252, 252, 251);
     --second-bg-color: rgba(162, 166, 168, 0.753);
     --text-color: black;
-    --main-color: rgb(163, 111, 7);
+    --main-color: rgb(236, 235, 182);
 }
 
 html{
